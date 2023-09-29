@@ -77,11 +77,7 @@ margin-right: 10px;
 
 
 }
-.search-button .tooltip ,
-.voice-search-button .tooltip,
-.upload-icon-container .tooltip,
-.youtube-app-container .tooltip,
-.notification-icon-container .tooltip {
+.tooltip {
   font-family: Roboto,Arial;
   position: absolute;
   background-color: grey;
