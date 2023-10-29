@@ -101,8 +101,7 @@ margin-right: 10px;
 
 }
 .search-icon{
-  height: 25px;
-  
+  height: 25px; 
 }
 
 .voice-search-button{
@@ -116,7 +115,6 @@ background-color: rgb(247, 245, 245) ;
 .voice-search-icon{
  height: 24px; 
 
-
 }
   
 .hamburger-menu {
@@ -124,7 +122,6 @@ background-color: rgb(247, 245, 245) ;
   margin-left: 24px;
   margin-right: 24px;
   
-
 }
 .youtube-logo{
   height: 20px;
