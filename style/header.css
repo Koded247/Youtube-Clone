@@ -78,7 +78,7 @@ margin-right: 10px;
 .tooltip {
   font-family: Roboto,Arial;
   position: absolute;
-  background-color: grey;
+  background-color: rgb(122, 121, 121);
   color: white;
   padding-top: 4px;
   padding-bottom: 4px;
